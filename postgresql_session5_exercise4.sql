@@ -123,5 +123,5 @@ HAVING
                     orders
                 GROUP BY
                     customer_id
-            ) AS sub_table
+            )
     );
